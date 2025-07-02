@@ -1,0 +1,4 @@
+/env
+/model.pth
+/attention_model.pth 
+/simulated_structural_health_dataset.csv
