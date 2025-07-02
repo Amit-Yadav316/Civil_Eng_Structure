@@ -1,4 +1,8 @@
 # Structural Vibration Anomaly Detection
+![image](https://github.com/user-attachments/assets/6749bb63-d07b-43c0-9be4-cfa8c68f9cbe)
+
+# Streamlit UI
+![Screenshot 2025-07-03 012125](https://github.com/user-attachments/assets/1bafc81b-69cb-4a21-b25d-202fa799febd)
 
 This project uses an LSTM_CNN_Attn_Autoencoder to detect anomalies in structural health monitoring (SHM) sensor data.
 
