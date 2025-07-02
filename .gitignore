@@ -2,4 +2,4 @@
 /model.pth
 /attention_model.pth 
 /simulated_structural_health_dataset.csv
-/__pycache__
+__pycache__
